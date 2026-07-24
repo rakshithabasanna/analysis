@@ -1,4 +1,4 @@
-tensorflow==2.21.0
+tensorflow
 
 numpy==2.3.2
 pandas==2.3.1
